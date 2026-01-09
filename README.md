@@ -765,4 +765,4 @@ Through this project, I gained several key insights:
 * Iterative Development: Breaking down complex problems into smaller, manageable tasks allowed me to make progress and avoid getting stuck striving for initial perfection.
 * Importance of Testing: Rigorous testing throughout the development cycle ensures a more stable and reliable product.
 
-[Go to Snippets](#snippets)
+[Back to Top](#live-project)
