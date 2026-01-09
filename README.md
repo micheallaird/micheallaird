@@ -1,9 +1,16 @@
 # Live Project
 
+## Table of Contents
+* [Snippets](#snippets)
+* [Demonstration](#demonstation)
+* [Screenshots](#screenshots)
+* [Project Conclusion](#project-conclusion--lessons-learned)
+
 ## Introduction
 
 In the last two weeks of my time in The Tech Academy Bootcamp, I worked on a MVC application with my fellow students using Azure Devops. Each of us were assigned stories that we could work on that added to the project as a whole. I was responsible for working on the full-stack development of the Blog area of the website. I had the opportunity to work on several full stack stories. To provide insight into my development process, I have documented key logic through code samples and supporting visual demonstrations. These snippets highlight the core architecture of the project, accompanied by screenshots that validate successful implementation and UI integration. 
 
+<a id="snippets"></a>
 ## Snippets
 ### Index Snippet
 
@@ -728,25 +735,34 @@ div.CMS-author-grid div.CMS-author-content-wrapper strong.CMS-author-bio-name {
 ```
 </details>
 
+## Demonstation
+
+![LP Animation](https://github.com/user-attachments/assets/6f53b87a-fb52-4667-8961-3a33cf33ca47)
+
 ## Screenshots
 
 <img width="1325" height="898" alt="Screenshot 2026-01-08 122246" src="https://github.com/user-attachments/assets/1281a9a9-7816-49f8-a82d-6aa62c085c9b" />
 <img width="1325" height="903" alt="Screenshot 2026-01-08 122310" src="https://github.com/user-attachments/assets/7570dfc4-307f-4c37-bf68-5d2623a25835" />
-<img width="1320" height="891" alt="Screenshot 2026-01-08 122337" src="https://github.com/user-attachments/assets/9fadc516-dcc5-4269-9230-14c86b984afe" />
 <img width="1328" height="891" alt="Screenshot 2026-01-08 122356" src="https://github.com/user-attachments/assets/d5b0c37d-8f48-4ce7-9055-24518e709a25" />
 <img width="1303" height="946" alt="Screenshot 2026-01-08 122419" src="https://github.com/user-attachments/assets/cf414cc9-5697-4139-a51a-7a47eb975728" />
 
-<!--
-**micheallaird/micheallaird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Project Conclusion & Lessons Learned
 
-Here are some ideas to get you started:
+This Live Project was the culmination of my time at The Tech Academy, allowing me to apply the skills I've acquired in a real-world simulation. It provided hands-on experience and a deeper understanding of the full software development lifecycle.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Key Accomplishments
+
+* Applied Full-Stack Knowledge: I successfully integrated front-end (HTML, CSS, JavaScript) and back-end (e.g., C# and SQL) technologies to add on to a functional application.
+* Version Control Proficiency: I utilized Git and GitHub for version control, managing code changes and collaborating effectively.
+* Problem-Solving & Debugging: I developed debugging skills by systematically identifying and resolving issues encountered during they project sprints.
+* Project Management Fundamentals: I applied Agile and Scrum methodologies to organize my workflow, set goals, and manage the project efficiently.
+  
+### Lessons Learned
+Through this project, I gained several key insights:
+
+* The Value of Planning: Thorough initial planning and design, including considering edge cases and potential failure modes, worked through the development process.
+* Documentation: Clear and concise documentation (both in-code comments and a README) is essential for maintainability and for other developers to understand the project.
+* Iterative Development: Breaking down complex problems into smaller, manageable tasks allowed me to make progress and avoid getting stuck striving for initial perfection.
+* Importance of Testing: Rigorous testing throughout the development cycle ensures a more stable and reliable product.
+
+[Go to Snippets](#snippets)
